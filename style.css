@@ -24,6 +24,9 @@ body {
     margin-top: 150px;
     margin: auto;
     padding: 30px;
+    border-radius: 10px;
+    box-shadow: 4px 4px #aaaab0;
+    
 }
 
 h1 {
@@ -69,6 +72,14 @@ a {
 }
 
 img {
-    border-radius: 150 px 150px;
+    border-radius: 150px 150px;
     border: solid 3px white;
+}
+
+.twitter a:hover {
+    color: #0b7bc1;
+}
+
+.facebook a:hover {
+    color: #2b406e;
 }
